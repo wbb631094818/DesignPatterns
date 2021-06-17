@@ -25,10 +25,10 @@
 
 [命令模式](https://github.com/wbb631094818/DesignPatterns/tree/master/app/src/main/java/com/wbb/designpatterns/commandpattern)
 
-### 组合模式
-[参考文档](https://note.youdao.com/s/VMjAku2i)
+### 责任链模式
+[参考文档](https://note.youdao.com/s/V57V0Pdk)
 
-[组合模式](https://github.com/wbb631094818/DesignPatterns/tree/master/app/src/main/java/com/wbb/designpatterns/corpattern)
+[责任链模式](https://github.com/wbb631094818/DesignPatterns/tree/master/app/src/main/java/com/wbb/designpatterns/corpattern)
 
 ### 装饰者模式
 [参考文档](https://note.youdao.com/s/dPNasQOX)
